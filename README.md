@@ -14,7 +14,7 @@ This project has four major parts :
 4. preprocess.py - This is used for preprocessing the input frame
 
 ### Running the project
-1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
+1. Ensure that you are in the project home directory. Create the machine learning model by running below command.
 ```
 python model.py
 ```

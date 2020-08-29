@@ -1,10 +1,7 @@
-## Face-Emotion-Detector
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+## Emotion Detector
 
 ### Prerequisites
 You mast have pytorch and opencv-python installed
-
-## Emotion Detector
 
 ### Project Structure
 This project has four major parts :
